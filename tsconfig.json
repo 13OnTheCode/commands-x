@@ -1,0 +1,8 @@
+{
+  "extends": "@13onthecode/typescript-config/node",
+  "include": ["src", "examples"],
+  "exclude": ["node_modules", "dist"],
+  "compilerOptions": {
+    "moduleResolution": "bundler"
+  }
+}
