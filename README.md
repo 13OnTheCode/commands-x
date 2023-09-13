@@ -14,6 +14,12 @@ Elegant command-line interface (CLI) development tool, providing a set of featur
 - Auto generated usage and version
 - Fast and lightweight arguments parser
 
+## Playground
+
+You can try it out online in a live demo environment:
+
+[Live Demo](https://stackblitz.com/edit/commands-x-demo)
+
 ## Install
 
 ```bash

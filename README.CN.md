@@ -14,6 +14,12 @@
 - 自动生成用法和版本信息
 - 快速轻量级的参数解析器
 
+## Playground
+
+您可以前往在线实时演示环境中尝试它：
+
+[Live Demo](https://stackblitz.com/edit/commands-x-demo)
+
 ## Install
 
 ```bash
