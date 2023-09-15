@@ -1,4 +1,4 @@
-# Commands-x
+# Commands-X
 
 [![NPM Version](https://img.shields.io/npm/v/commands-x?color=131313&label=)](https://www.npmjs.com/package/commands-x)
 [![License](https://img.shields.io/npm/l/commands-x?color=131313&label=)](LICENSE.md)
